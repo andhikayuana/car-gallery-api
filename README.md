@@ -39,8 +39,8 @@ and now you can see like this
 
 ```json
 {
-  name: "Cars API",
-  version: "1.0.0"
+  "name": "Cars API",
+  "version": "1.0.0"
 }
 ```
 
