@@ -31,6 +31,7 @@ $ composer install
 To run this API using this command
 
 ```bash
+cd public
 php -S localhost:3000
 ```
 Access `localhost:3000` using postman or your web browser 
