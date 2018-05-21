@@ -19,7 +19,7 @@ git clone git@github.com:andhikayuana/car-gallery-api.git
 * Install depdendencies using `composer`
 
 ```bash
-$ cd /car-gallery-api
+$ cd car-gallery-api
 $ composer install
 ```
 
