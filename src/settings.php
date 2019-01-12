@@ -16,11 +16,11 @@ return [
 
         //db ::Yuana
         'db' => [
-            'driver'   => 'mysql',
-            'dbhost'   => '127.0.0.1',
-            'dbuser'   => 'root',
-            'dbpass'   => 'programmer',
-            'dbname'   => 'db_rest',
+            'driver'   => 'pgsql',
+            'dbhost'   => 'localhost',
+            'dbuser'   => 'yuana',
+            'dbpass'   => 'yuana',
+            'dbname'   => 'cargallery',
         ],
         //uploader
         'uploader' => [

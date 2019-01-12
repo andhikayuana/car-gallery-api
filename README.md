@@ -3,8 +3,8 @@
 ## Requirements
 
 * Web server with URL rewriting
-* PHP 5.5 or newer
-* Mysql
+* PHP 7 or latest
+* PostgreSQL 10.4 or latest
 * [Composer](https://getcomposer.org/)
 * [Git](https://git-scm.com/)
 
